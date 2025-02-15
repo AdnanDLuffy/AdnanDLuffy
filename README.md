@@ -1,4 +1,8 @@
-## Hi there 👋
+## Assalamualaikum 👋
+
+-**Introduction**
+<p style="color:blue">I am Adnan ! As you can see ... A 18 year old kid ! I am noob *-* Nice to meet you </p>
+
 
 <!--
 **AdnanDLuffy/AdnanDLuffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
