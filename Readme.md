@@ -1,5 +1,5 @@
 # Assalamualaikum!
-<p style="color:red; background-color:red;">As you can see my name is Adnan and it's nice to meet you</p>
+<span style="color:red">As you can see my name is Adnan and it's nice to meet you</span>
 
 **Things I am good at**
 - Javascript
