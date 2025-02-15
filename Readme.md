@@ -1,5 +1,6 @@
 # Assalamualaikum!
-<span style="color:red">As you can see my name is Adnan and it's nice to meet you</span>
+As you can see my name is Adnan and it's nice to meet you
+
 
 **Things I am good at**
 - Javascript
@@ -14,5 +15,6 @@
 - C
 
 ## Some of My Projects
-
+<button>Love Calculator</button>
+<button>Vector Calculator</button>
 ## How to contact me
