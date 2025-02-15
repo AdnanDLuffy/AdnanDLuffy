@@ -1,6 +1,5 @@
 # Assalamualaikum!
-As you can see my name is Adnan and it's nice to meet you
-
+As you can see my name is Adnan! Please to meet you --- and thanks for visiting this noobs profile :-
 
 **Things I am good at**
 - Javascript
@@ -15,9 +14,11 @@ As you can see my name is Adnan and it's nice to meet you
 - C
 
 ## Some of My Projects
-<a>
-<button style="background-color:pink;color:white;height:30px;width:50px;border:none;border-radius:10px">Love Calculator</button>
-</a>
+[![AniPub]](AdnanDLuffy.github.io) //Currently Working on it
+[![Vector Calculator]](https://AdnanDLuffy.github.io/Calculator)
+[![Love Calculator]](https://adnandluffy.github.io/Love%20Calculator/)
 
-<button>Vector Calculator</button>
 ## How to contact me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/WallaHabibi.Adnan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adnand.luffy)
+[![GIthub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AdnanDLuffy)
