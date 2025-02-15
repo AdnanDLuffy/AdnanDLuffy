@@ -1,4 +1,4 @@
-## Assalamualaikum!
+# Assalamualaikum!
 <p>As you can see my name is Adnan and it's nice to meet you</p>
 
 **Things I am good at**
@@ -13,6 +13,6 @@
 - Python
 - C
 
-# Some of My Projects
+## Some of My Projects
 
-# How to contact me
+## How to contact me
