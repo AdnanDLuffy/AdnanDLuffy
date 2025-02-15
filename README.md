@@ -1,7 +1,7 @@
 ## Assalamualaikum 👋
 
-##**Introduction**
-<p style="color:blue">I am Adnan ! As you can see ... A 18 year old kid ! I am noob *-* Nice to meet you </p>
+**Introduction**
+<p style="color:blue;">I am Adnan ! As you can see ... A 18 year old kid ! I am noob *-* Nice to meet you </p>
 
 
 <!--
