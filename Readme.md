@@ -1,5 +1,5 @@
 # Assalamualaikum!
-As you can see my name is Adnan! Please to meet you --- and thanks for visiting this noobs profile :-
+As you can see my name is Adnan! Nice to meet you --- and thanks for visiting this noobs profile :-
 
 **Things I am good at**
 - Javascript
