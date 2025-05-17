@@ -116,7 +116,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AdnanDLuffy&theme=radical&column=4&margin-w=18&margin-h=15" alt="Trophies" />
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AdnanDLuffy&theme=radical&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
