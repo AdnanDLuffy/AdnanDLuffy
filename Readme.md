@@ -102,13 +102,7 @@
 
 ---
 
-<h2 align="center">🛠️ Featured GitHub Actions & Workflows</h2>
-<ul>
-  <li>✨ <b>Automated Deployments</b> using <a href="https://render.com/" target="_blank">Render</a></li>
-  <li>🔒 <b>CI/CD Pipelines</b> powered by <a href="https://github.com/features/actions" target="_blank">GitHub Actions</a></li>
-  <li>🧹 <b>Code Quality</b> checks and linting on every PR</li>
-  <li>🚦 <b>Test Coverage</b> stats via workflow status badges</li>
-</ul>
+
 
 ---
 
